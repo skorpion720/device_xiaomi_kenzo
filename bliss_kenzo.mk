@@ -53,4 +53,9 @@ export BLISS_BUILDTYPE=OFFICIAL
 export BLISS_DEVELOPER=Magicxavi
 
 PRODUCT_PACKAGES += \
-    AdvancedControls
+    AdvancedControls \
+    MGC_7.3.018 \
+    OneplusWidget \
+    Screenrecorder \
+    Opera \
+    RemovePackages
