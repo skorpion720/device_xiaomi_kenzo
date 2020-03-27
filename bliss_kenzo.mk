@@ -54,8 +54,8 @@ export BLISS_DEVELOPER=Magicxavi
 
 PRODUCT_PACKAGES += \
     AdvancedControls \
-    MGC_7.3.018 \
+    MGC_7.3.020 \
     OneplusWidget \
     Screenrecorder \
-    Opera \
+    MintBrowser \
     RemovePackages
